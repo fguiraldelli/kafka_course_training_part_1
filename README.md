@@ -1,0 +1,1 @@
+# kafka_course_training_part_1

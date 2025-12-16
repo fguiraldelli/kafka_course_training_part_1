@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "core"
+		},
+		{
+			"path": "EmailNotificationMicroservice"
+		},
+		{
+			"path": "mockservice"
+		},
+		{
+			"path": "ProductsMicroservice"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
