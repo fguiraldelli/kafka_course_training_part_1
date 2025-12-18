@@ -1,0 +1,7 @@
+/home/fguira/Personal_Projects/2025/kafka/Course/Part_section_from_1_to_14/ProductsMicroservice/src/main/java/com/appsdeveloperblog/ws/products/service/ProductService.java
+/home/fguira/Personal_Projects/2025/kafka/Course/Part_section_from_1_to_14/ProductsMicroservice/src/main/java/com/appsdeveloperblog/ws/products/rest/CreatedProductRestModel.java
+/home/fguira/Personal_Projects/2025/kafka/Course/Part_section_from_1_to_14/ProductsMicroservice/src/main/java/com/appsdeveloperblog/ws/products/KafkaConfig.java
+/home/fguira/Personal_Projects/2025/kafka/Course/Part_section_from_1_to_14/ProductsMicroservice/src/main/java/com/appsdeveloperblog/ws/products/ProductsMicroserviceApplication.java
+/home/fguira/Personal_Projects/2025/kafka/Course/Part_section_from_1_to_14/ProductsMicroservice/src/main/java/com/appsdeveloperblog/ws/products/service/ProductServiceImpl.java
+/home/fguira/Personal_Projects/2025/kafka/Course/Part_section_from_1_to_14/ProductsMicroservice/src/main/java/com/appsdeveloperblog/ws/products/rest/ErrorMessage.java
+/home/fguira/Personal_Projects/2025/kafka/Course/Part_section_from_1_to_14/ProductsMicroservice/src/main/java/com/appsdeveloperblog/ws/products/rest/ProductController.java
